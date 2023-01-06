@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\mozmaili\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\mozmaili\\.nuget\\packages"
+    ]
+  }
+}
